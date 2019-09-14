@@ -18,7 +18,7 @@ author:
 social:
   name: Urban Template
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+   # - https://github.com/CloudCannon/urban-jekyll-template
 
 timezone: Etc/UTC
 
@@ -91,10 +91,10 @@ defaults:
 
 social_icons:
   - Facebook
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
+  #- Instagram
+  #- LinkedIn
+  #- Pinterest
+  #- Tumblr
   - Twitter
   - YouTube
-  - RSS
+  #- RSS
